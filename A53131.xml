@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[News] from Epsom: or, The revengful lady shewing how a young lady there was beguil'd by a London-gallant; who when he had done, boasted of the conquest, for which unworthy fact, she wittily reveng'd her self of the tell-tale; and made a capon of a Cockney. A novell. Written (tho' I say it) according to the exactest rules of fancy and judgement: in the imitation of Monsieur Scarron. By Poor-Robin, kt. Vindeita.</title>
+            <author>Poor Robin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53131</idno>
+            <idno type="STC">Wing N956</idno>
+            <idno type="STC">ESTC R220286</idno>
+            <idno type="EEBO-CITATION">99831706</idno>
+            <idno type="PROQUEST">99831706</idno>
+            <idno type="VID">36173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36173)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2051:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[News] from Epsom: or, The revengful lady shewing how a young lady there was beguil'd by a London-gallant; who when he had done, boasted of the conquest, for which unworthy fact, she wittily reveng'd her self of the tell-tale; and made a capon of a Cockney. A novell. Written (tho' I say it) according to the exactest rules of fancy and judgement: in the imitation of Monsieur Scarron. By Poor-Robin, kt. Vindeita.</title>
+                  <author>Poor Robin.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Imperfect; pages cropped with loss of print.</note>
+                  <note>Reproduction of the original in the Edinburgh University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gossip --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36173:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> FROM EPSOM:
+<hi>OR,</hi> THE Revengeful Lady; Shewing how a Young Lady there was Beguil'd by a <hi>London-Gallant;</hi> who when he had done, boaſted of the Conqueſt, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which unworthy Fact, ſhe Wittily reveng'd her ſelf of the <hi>Tell-Tale;</hi> And made a
+<hi>Capon</hi> of a <hi>Cockney.</hi> A Novell. Written (tho' I ſay it) according to the Exacteſt Rules of Fancy and Judgement: In Imitation of
+<hi>Monſieur Scarron.</hi>
+            </p>
+            <p>By <hi>Poor-Robin,</hi> Kt. <hi>Vindeita.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Nemo magis gaudet quam Femina,</hi>
+                  <bibl>Juven.</bibl>
+               </l>
+            </q>
+            <p>Printed in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36173:2"/>
+            <pb facs="tcp:36173:2"/>
+            <head>The Revengeſul Lady: OR, The Tell-Tale,
+<hi>EUNUCH'D.</hi>
+            </head>
+            <p>THere was a Gentleman in this Town of a compleat Wit, and plea<g ref="char:EOLhyphen"/>ſant Behaviour, a Perſon very fortunate in the Love of Women, and in all reſpects very Oblieging towards them, ſave that he wanted the government of the Tongue; for no ſooner could he receive a Cloſet-kindneſs from his Miſtris, but he would inſtantly boaſt of his ſucceſs, and that with ſuch Circumſtances as added moſt to the glory of the Conquer<g ref="char:EOLhyphen"/>our, without any regard to the Reputation of the Vanquiſhed; which diſſolute kind of carriage, as it could not but be taken very unkindly from the Ladies, ſo at laſt it proved very unfortunate to himſelf.</p>
+            <p>GOing this Summer to <hi>Epſom,</hi> whether for the de<g ref="char:EOLhyphen"/>light ſomneſs of the Ayr, the benefit of the Wa<g ref="char:EOLhyphen"/>ters, or the pleaſure he took in the Company, I know not, nor is it material; but being there, he became acquainted with a young Lady, beautiful in her Per<g ref="char:EOLhyphen"/>ſon, and pleaſant in her Converſation. This Spark of <hi>London,</hi> had ſcarce been twice in her company, but from the ſucceſs he had always met with, he concluded her his own, and accor<g ref="char:EOLhyphen"/>dingly ſuiting his addreſſes to his confidence, he apply'd him<g ref="char:EOLhyphen"/>ſelf to her in a more familiar way then became the ſlender<g ref="char:EOLhyphen"/>neſs of his acquaintance, or the nature of his pretence; which attempt ſo far incens'd her, that if ever he ſhould offer the like incivility again, ſhe proteſted he ſhould never ſee her more. He ſomewhat ſurprized with the unuſual, (and there<g ref="char:EOLhyphen"/>fore unexpected) coyneſs, had a months mind at one time to have called her proud ſlut, and to have Antidated her there<g ref="char:EOLhyphen"/>at by leaving her immediately; But upon better conſiderati<g ref="char:EOLhyphen"/>on,
+<pb facs="tcp:36173:3"/>finding ſo much beauty in her
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and Majeſty
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> anger, he thought it more pollicy to diſſemble his preſent re<g ref="char:EOLhyphen"/>ſentment, then to fruſtrate his future hopes, and therefore in excuſe of himſelf, he began to ſwear very liberally, That he offered that rudeneſs only to try her modeſty, he confeſſed he had ſometimes made uſe of thoſe Town-fooleries for the Diverſion of ſuch as lik'd the humour; but for his part he nei<g ref="char:EOLhyphen"/>ther hop'd nor believed that a perſon of her Circumſtances could be plea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d with ſuch a kind of Dalliance; aſſuring her withal (as far as Damme's would do it) that in complyance with thoſe ſtrict rules of Chaſtity ſhe profeſt to walk by, he would never for the future ſpeak or act any thing but what might correſpond with the moſt unblemiſht Vertue. Which proteſtations of his ſomewhat cleared up her clowdy Brow: and tho' ſhe could hardly be Friends with him that After<g ref="char:EOLhyphen"/>noon, yet ſhe told him upon his better behaviour for the fu<g ref="char:EOLhyphen"/>ture, that he might ſtill hope not to be turned out of her ſer<g ref="char:EOLhyphen"/>vice. Hereupon our gallant began to proceed with more Caution in his deſigns, and to bear a greater reſpect to her than formerly, behaving himſelf ſo modeſtly in his expreſ<g ref="char:EOLhyphen"/>ſions, and ſo obliegingly in his actions, that he gained a more than ordinary eſteem from his Deareſt, and he had at laſt ſo far won upon her by the art ficial diſguiſe of chaſtity, that ſhe would many times truſt her ſelf alone with him in her chamber, at hours ſo unſeaſonable, as might have created a ſuſpition of any Womans vertue but hers. This when our vig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lant You<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gſter had perceived, he thought it in vain to daily any longer, reſolving to take the Fort by Treachery, if he could not do it by Treaty, and in order thereto concluded upon the following Adventure.</p>
+            <p>Prevailing with her one day to take a walk in the Park, and coming to a ſhady bank (no matter for the purling Streams, and Warbling Chori<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers,) they ſat down in a place very agreeable to the innocence of her deſign, and but too conve<g ref="char:EOLhyphen"/>nient.
+<pb facs="tcp:36173:3"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of prittle prattle they had, but that one
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will be ſo inquiſitive to ask how I came to hear it. But Diſcourſe they had, that's certain; and 'tis a hundred to one but that 'twas one Love Story or other, for at laſt it came to this; The young Gentleman gathering a blade of Graſs, and applying himſelf to the Lady, ask'd her if ſhe could break it with her hands; There's no queſtion to be made, but reply'd Yes: But without many I<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s and And's, it came to a wager (which the moſt judicious affirm to be a Bottle of Claret,) that he would tye her Thumbs ſo faſt with it, that neither by the ſtrength of her Arms nor her wit, ſhe ſhould be able to break or untye it: This concluded on, he palm'd a Green Ribbon upon her, made ſo artificially like a blade of Graſs, that it could very hardly be diſtinguiſhed; and with this ty'd her Thumbs ſo firmly, that to her great admiration ſhe was forced to confeſs the Wager loſt: but he like a fair Game<g ref="char:EOLhyphen"/>ſter to give her a revenge, offer'd another bottle, that if ſhe would ſuffer him to put her arms over her head, ſhe could not kiſs her Elbow. Looſers you know play commonly with<g ref="char:EOLhyphen"/>out fear or wit, for ſhe had no ſooner conſented, but ſhe found not only the wager loſt, but ſomthing elſe ſhe valued I can't tell how much more, in a great deal of danger; for the Ad<g ref="char:EOLhyphen"/>venturer taking her at this advantage, began to uſe a forced dalliance, and to apply himſelf to her in a pritty familiar way that he had, which I ſhall leave every man to gueſs at, by what he would have done had he been in his place: As to the Ladies I know they'l be warranting the ſad toſs ſhe was in, and at the ſame time both pittying and envying her Con<g ref="char:EOLhyphen"/>dition. Therefore to diſappoint neither one nor the other, the Story ſays ſhe cryed out Murder, but withal, that ſhe Dyed only in the phraſe of modern Poets; for ſhe quickly came to her ſelf again, being only a little over-heated, like a Colt newly back'd, by endeavouring to throw her Rider; and com<g ref="char:EOLhyphen"/>plaining
+<pb facs="tcp:36173:4"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> deſire her Gallant (unkind as he was) to Unlace her Gown, and to give her the benefit of the air, bitterly upbraiding him all the while with the baſeneſs of the action; what have you done, quoth ſhe, inhumane Raviſher? ingrateful wretch that you are! firſt to bind me, and then to rob me of my greateſt Treaſure. He not caring to make much ado about nothing, prethee be quiet (ſays he) and i'le repay thee with Intereſt, look you do then, replyed the tender-hearted ſoul, and ſo giving him her hand, they walked very lovingly home again to perticipate of her looſings.</p>
+            <p>Hitherto all was well, and like enough to continue ſo, if this babling Coxcomb could but have held his Tongue; but he had the vanity of ſome other (indeed moſt) Gallants, whoſe humour is ſo far from concealing any ſucceſsful a<g ref="char:EOLhyphen"/>mour, that they will boaſt of kindneſſes they never received, rather than not gain the reputation of being debauc'd<hi>:</hi> ſo he, big with the conceit of what he had done, found an oppor<g ref="char:EOLhyphen"/>tunity (or indeed made one) of telling the whole adventure the ſame evening to an old Crony of his, that had been a con<g ref="char:EOLhyphen"/>ſtant admirer of his continued ſucceſs. This Gentleman it ſeems had been an antient ſervant of the Ladies, I mean had attempted to debauch her for a long time; and therefore up<g ref="char:EOLhyphen"/>on the relation of the whole matter, the perſon being named, and the action deſcribed at large, it is but rational to ſuppoſe him a little concern'd, not only that he ſhould be diſappoint<g ref="char:EOLhyphen"/>ed in his hopes, but out-done at his own weapon: And to manifeſt that he was ſo, though he ſeemingly Laugh'd at the pleaſantneſs of the adventure, yet he reſolved upon the firſt opportunity, to diſcover the abuſe if it were a Lye, or if truth, to put in for the later-match of her affection. The day follow<g ref="char:EOLhyphen"/>ing, meeting with her either by ſearch or accident, though ſhe never cared for his company or addreſs, he prevailed with her by ſome importunity to hear this unwelcome ſtory, which
+<pb facs="tcp:36173:4"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and being a little helped by the impertinence of the Relator, ſhe gained time to recover her ſenſes well enough to perſuade him the ſtory was falſe, reſolving at the ſame time to cry quits with Mr. Tell-Tale when time ſhould ſerve, but for the preſent not to ſeem to take notice of the Diſcovery. And for a day or two after pretending a greater fondneſs to her Gallant for the ſake of what had paſt; it was now her turn to deſire him to take a walk to the ſame place they were at the other day, to which he readily conſented; and I defie the croſſeſt Reader in Chriſtendom to ſuppoſe otherwiſe. Being come to a place ſhe choſe out as moſt convenient for the de<g ref="char:EOLhyphen"/>ſign in hand, ſhe deſired him to ſit down, and after a little amorous impertinence, thus began to inſinuate with him: Love, ſays ſhe, ſhall I tye thy hands as thee didſt mine the other day, but you are ſo ſtrong i'le do it with my Gatter in<g ref="char:EOLhyphen"/>ſtead of Graſs, this was eaſily conſented to: Ah you Rogue, continued ſhe, i'le tye your Legs too,
+'twill be no hindrance, Sirrah; Ha<g ref="char:punc">▪</g> this was but a modeſt requeſt<hi>:</hi> Now my Dear, ſays ſhe, put your hands over you<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> head as I did; that done, ſhe takes an opportunity to tye them faſt to the ſtump of a Buſh; the Fellow all this while pleaſed with the Con<g ref="char:EOLhyphen"/>ceptions he had of the amorous Stratagem, lay ſtock ſtill, ab<g ref="char:EOLhyphen"/>ſolutely imagining her deſign to be much like his, in what re<g ref="char:EOLhyphen"/>ſemblance the diverſity of the Sex was capable of; But, ſilly Aſs, he found himſelf damnably deceived, for by the auſterity of her countenance, he found anger a paſſion more predomi<g ref="char:EOLhyphen"/>nent in her then Love, eſpecially when ſhe began to threaten him in a more unpleaſant dialect then perhaps became either her Sex or quality; for though in civility we may call it chiding, in plain terms 'twas no better nor worſe then down<g ref="char:EOLhyphen"/>right Scolding; The Names ſhe had diſſembled over but even now, ſhe again repeated, but in ſuch a tone as quickly gave him
+<pb facs="tcp:36173:5"/>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Rogue you, I'le teach you to Kiſs and tell; could not
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> content to debauch me, but you muſt Scandalize me to? to rob me not only of my vertue, but likewiſe of my good name<g ref="char:punc">▪</g> I'le make you an Example for all ſuch Villains as you are. More ſhe ſaid to this purpoſe as near as I can gueſs, (for to tell you the truth I did not hear her) and to make her words good ſhe drew out a very ſharp Pen-knife, now, ſays ſhe, what would you think Mr. <hi>Cock<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y</hi> if I ſhould make a
+<hi>Capon</hi> of you? and hang me if I don't ſhew the <hi>Londoner</hi> ſuch a trick, he ſhall remember the Country all days of his life; with that ſhe gave him ſuch a touch of Love, in the part that your Al<g ref="char:EOLhyphen"/>manack-makers call <hi>Scorpio,</hi> and your Anatomiſts <hi>Scrotum:</hi> that it is verily ſaid by ſober perſonages, that he never had a mind to Wench after: So riſing up from the poor <hi>Eunuch,</hi> the Ironical Baggage did ſo raunt at him, that ſome writers affirm it went to the very heart of him: alas Sir, ſays ſhe, how you bleed! What are you wounded? I fear you have been fighting for my ſake, I have a pair of Blood-ſtones here, pray take 'em and hang 'em about your Neck, while I run and ſend you a Chyrurgion, which it ſeems ſhe did in kindneſs to herſelf, not to him: The Chyrurgion making a ſpeedy cure of his Wound, the Lady at the ſame time, in ſome meaſure ſalved up the wounds of her reputation, for ſhe hath ſealed up the mouth of the Actor ſo cloſe, that 'tis generally believed he will ſpeak no more of this matter; ſo that though the ſtory be very true, in the general as I have related it, yet as to the particular perſons concerned, I deſire you would not urge me to the diſcovery of them, for I proteſt I k<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow not who they are.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
